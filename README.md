@@ -70,4 +70,3 @@
 ---
 
 <!-- Footer opcional -->
-![Footer](https://capsule-render.vercel.app/api?type=wave&color=0:0f2027,100:2c5364&height=100&section=footer)
